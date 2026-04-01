@@ -1,1 +1,2 @@
 This ia file a1.txt of master branch
+This is the second line of a1.txt
